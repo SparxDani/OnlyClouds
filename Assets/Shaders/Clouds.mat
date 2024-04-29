@@ -31,7 +31,7 @@ Material:
   - TransparentBackface
   - RayTracingPrepass
   - MOTIONVECTORS
-  m_LockedProperties: _Emission_Strenght
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -152,7 +152,7 @@ Material:
     - _BUILTIN_QueueOffset: 0
     - _Base_Scale: 0.025
     - _Base_Speed: 20
-    - _Base_Strenght: 2
+    - _Base_Strenght: 1
     - _BlendMode: 0
     - _CoatMask: 0
     - _ConservativeDepthOffsetEnable: 0
@@ -173,7 +173,7 @@ Material:
     - _DoubleSidedGIMode: 0
     - _DoubleSidedNormalMode: 1
     - _DstBlend: 10
-    - _Emission_Strenght: 500
+    - _Emission_Strenght: 1.1
     - _EmissiveColorMode: 1
     - _EmissiveExposureWeight: 1
     - _EmissiveIntensity: 1
@@ -184,8 +184,8 @@ Material:
     - _EnergyConservingSpecularColor: 1
     - _ExcludeFromTUAndAA: 0
     - _Fade_Depth: 75
-    - _Fresnel_Opacity: 5
-    - _Fresnel_Power: 8.15
+    - _Fresnel_Opacity: 1
+    - _Fresnel_Power: 1
     - _Height: 30
     - _HeightAmplitude: 0.02
     - _HeightCenter: 0.5
@@ -271,8 +271,8 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _BaseColorMap_MipInfo: {r: 0, g: 0, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _Color_Peak: {r: 0.3443396, g: 0.99377245, b: 1, a: 1}
-    - _Color_Valley: {r: 0, g: 0.2850167, b: 0.6792453, a: 1}
+    - _Color_Peak: {r: 0.26170895, g: 0.15076537, b: 0.41509432, a: 1}
+    - _Color_Valley: {r: 0, g: 0.05283022, b: 0.3301887, a: 1}
     - _DiffusionProfileAsset: {r: 0, g: 0, b: 0, a: 0}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
